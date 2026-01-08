@@ -7,8 +7,8 @@ Repo ini berisi implementasi klasifikasi sampah menggunakan model YOLOv8 dan ant
 1.  **Download atau Clone Repository:**
 
     ```bash
-    git clone https://github.com/nggaaa/krenova-2025-trash-classification-yolov8.git
-    cd krenova-2025-trash-classification-yolov8
+    git clone https://github.com/hndrali/klasifikasi-sampah-yolov8.git
+    cd klasifikasi-sampah-yolov8
     ```
 
 2.  **Buat Virtual Environment:**
