@@ -27,7 +27,7 @@ Repo ini berisi implementasi klasifikasi sampah menggunakan model YOLOv8 dan ant
         ```
     * **Untuk Windows:**
         ```bash
-        .\venv\Scripts\activate
+        source venv/Scripts/activate
         ```
 
 3.  **Install Dependencies:**
